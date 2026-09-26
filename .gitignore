@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Course-provided data: keep local, beside the notebook.
+single_cell.h5ad
+singlecell_train.csv
+
